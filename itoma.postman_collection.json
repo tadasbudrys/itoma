@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "0a5a505d-03fa-4dbf-b228-71cec1ca7691",
+		"name": "itoma",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "11815604"
+	},
+	"item": [
+		{
+			"name": "With_no_data_filter",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "With_data_filter",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
