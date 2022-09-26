@@ -2,18 +2,13 @@
 
 namespace App\Services;
 
-use App\Models\Cars;
-
 /**
  * Class CarsService
  * @package App\Services
  */
 class CarsService
 {
-    public function carsList(): object
-    {
-        return Cars::paginate(30);
-    }
+
 
     public function getCars(array $params = array()): object
     {

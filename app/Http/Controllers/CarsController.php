@@ -17,10 +17,9 @@ class CarsController extends Controller
      *
      * @return Response
      */
-    public function index(CarsService $carsService):object
+    public function index()
     {
 
-        return response()->json($carsService->carsList(), 200);
     }
 
 
