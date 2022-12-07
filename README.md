@@ -9,4 +9,4 @@
 
 
 # Api endPoint
-   -To test use itoma.postman_collection.json
+   -To test use postman_collection.json
